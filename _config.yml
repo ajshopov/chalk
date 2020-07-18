@@ -3,7 +3,6 @@
 blog_theme: light # Or use dark
 name: Chalk
 paginate: 25
-url: http://chalk.nielsenramon.com
 
 
 # Optional settings
@@ -82,3 +81,5 @@ plugins:
   - jemoji
 paginate_path: /posts/page/:num/
 permalink: posts/:slug
+
+baseurl: /chalk
